@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Prueba modulo 2 prep course henry
+prueba de como crear un repositorio y clonarlo desde el pc
